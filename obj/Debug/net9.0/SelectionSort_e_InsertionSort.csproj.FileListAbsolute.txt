@@ -1,0 +1,14 @@
+C:\SelectionSort_e_InsertionSort\bin\Debug\net9.0\SelectionSort_e_InsertionSort.exe
+C:\SelectionSort_e_InsertionSort\bin\Debug\net9.0\SelectionSort_e_InsertionSort.deps.json
+C:\SelectionSort_e_InsertionSort\bin\Debug\net9.0\SelectionSort_e_InsertionSort.runtimeconfig.json
+C:\SelectionSort_e_InsertionSort\bin\Debug\net9.0\SelectionSort_e_InsertionSort.dll
+C:\SelectionSort_e_InsertionSort\bin\Debug\net9.0\SelectionSort_e_InsertionSort.pdb
+C:\SelectionSort_e_InsertionSort\obj\Debug\net9.0\SelectionSort_e_InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\SelectionSort_e_InsertionSort\obj\Debug\net9.0\SelectionSort_e_InsertionSort.AssemblyInfoInputs.cache
+C:\SelectionSort_e_InsertionSort\obj\Debug\net9.0\SelectionSort_e_InsertionSort.AssemblyInfo.cs
+C:\SelectionSort_e_InsertionSort\obj\Debug\net9.0\SelectionSort_e_InsertionSort.csproj.CoreCompileInputs.cache
+C:\SelectionSort_e_InsertionSort\obj\Debug\net9.0\SelectionSort_e_InsertionSort.dll
+C:\SelectionSort_e_InsertionSort\obj\Debug\net9.0\refint\SelectionSort_e_InsertionSort.dll
+C:\SelectionSort_e_InsertionSort\obj\Debug\net9.0\SelectionSort_e_InsertionSort.pdb
+C:\SelectionSort_e_InsertionSort\obj\Debug\net9.0\SelectionSort_e_InsertionSort.genruntimeconfig.cache
+C:\SelectionSort_e_InsertionSort\obj\Debug\net9.0\ref\SelectionSort_e_InsertionSort.dll
